@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Membuat Pilihan Kesehatan yang Bijaksana dengan Rekomendasi Herbal</string>
+    <string name="title_welcome_page">Temukan Solusi Herbal Anda</string>
+    <string name="title_signup_page">Bergabunglah dan temukan solusi herbal terbaik untuk meningkatkan kesehatan Anda.</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Silakan login untuk mencari informasi yang ingin kamu ketahui</string>
+    <string name="title_login_page">Selamat datang kembali!</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="next_button">next to login</string>
+    <string name="belum_mempunyai_akun">Belum mempunyai akun?</string>
+    <string name="sudah_memiliki_akun">Sudah memiliki akun?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_fav">Favorite</string>
+    <string name="title_discuss">Diskusi</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_search">Search</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="cari_bahan_makananmu_disini">Cari bahan makananmu disini</string>
+    <string name="cari_disini">Keluhan apa yang kamu alami?\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0</string>
+    <string name="lihat_lebih_banyak">Lihat lebih banyak</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="tidak_ada_bahan">Data tidak tersedia</string>
+    <string name="keyword">Keyword : </string>
+    <string name="kandungan">Kandungan : </string>
+    <string name="keluhan">Keluhan : </string>
+    <string name="manfaat">Khasiat</string>
+    <string name="resiko">Resiko</string>
+    <string name="koleksi">Koleksi</string>
+    <string name="resep_makanan">Resep Makanan</string>
+    <string name="diskusi">Diskusi</string>
+    <string name="cari_tanaman_herbal">Cari Tanaman Herbal</string>
+    <string name="rekomendasi_menu">Rekomendasi Menu</string>
+    <string name="cara_pembuatan">Cara Pembuatan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Sunting">Sunting</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Batal">Batal</string>
+    <string name="scan">Scan</string>
+    <string name="ini_favorite_fragment">Ini Favorite Fragment</string>
+    <string name="title_favorite">favorite</string>
+    <string name="ini_discussion_fragment">Ini Discussion Fragment</string>
+
+    //Tambahan ben
+    <string name="send_comment" />
+    <string name="comments_diskusi">Comments Diskusi</string>
+    <string name="favorite_history"><![CDATA[Favorite & History]]></string>
+    <string name="favorite">Favorite</string>
+    <string name="history">History</string>
+    <string name="judul">Masukkan Judul</string>
+    <string name="tulis_pendapatmu_disini">Tulis pendapatmu disini..</string>
+    <string name="upload_foto">Upload Foto</string>
+    <string name="post">Post</string>
+    <string name="hint_pencarian_forum">Cari Topik...</string>
+    <string name="judul_forum">Topik Apa yang Kamu Inginkan?</string>
+    <string name="add_discussion">add_discussion</string>
+    <string name="fatiha_ramadhianti">Fatiha Ramadhianti</string>
+    <string name="text_example">Halo semuanya! aku mau ngerekemondasiin kalian salah satu tanaman herbal yang bagus banget untuk nyembuhin batuk.\n FYI aku kalo batuk tuh lama banget sembuhnya, tapi semenjak rutin minum jahe siang malam, baru dua hari batukku udah hilang</string>
+    <string name="title_activity_detail_discussion">DetailDiscussion</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="comment">oh iya guys, jahenya aku rebus sam air dulu, terus kalo mau ditambahin madu dikit ya biar berasa</string>
+</resources>
